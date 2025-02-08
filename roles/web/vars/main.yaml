@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.saidevops.site
+USER_HOST: user.saidevops.site
+CART_HOST: cart.saidevops.site
+SHIPPING_HOST: shipping.saidevops.site
+PAYMENT_HOST: payment.saidevops.site
